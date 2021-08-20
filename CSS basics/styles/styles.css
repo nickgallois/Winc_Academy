@@ -1,0 +1,30 @@
+body{
+    color:red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+.groote-tekst {font-size: 16px;}
+
+
+
+header hr {
+    display: block;
+    border: 1px solid gray;
+    height: 30px;
+}
+
+.black-border {
+    border: 5px solid black
+}
+
+#blue {background-color: green;}
+.mydiv {
+    display: inline-block;
+    border: 1px solid red;
+    height: auto;
+    width: 200px;
+}
+
+.red {color: greenyellow}
+
